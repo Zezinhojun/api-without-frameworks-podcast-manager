@@ -1,7 +1,3 @@
-Certainly! Here is the updated README with hyperlinks for each technology:
-
----
-
 # Podcast API
 
 ## Description
