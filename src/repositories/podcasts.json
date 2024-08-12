@@ -1,0 +1,21 @@
+
+    [
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["saúde", "esporte", "bodybuilder"]
+    },
+        {
+        "podcastName": "flow",
+        "episode": "RUBENS BARRICHELLO - Flow #339",
+        "videoId": "4KDGTdiOV4I",
+        "categories": ["corrida", "esporte"]
+    },
+        {
+        "podcastName": "venus",
+        "episode": "Carlinhos Maia - Venus #3",
+        "videoId": "000000000",
+        "categories": ["humor", "estilo"]
+    }
+]
